@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Mimei",
+  "base_artist": "Yu Orie",
+  "createdAt": "2026-03-20T07:49:52.093760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honjitsu Mimei [本日未明]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": false,
+      "path": "select/01_Honjitsu_Mimei_[本日未明]_POLKADOT_STINGRAY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mimei no Kimi to Hakumei no Mahou",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/02_Mimei_no_Kimi_to_Hakumei_no_Mahou_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mimei no Kimi to Hakumei no Mahou (Instrumental)",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/03_Mimei_no_Kimi_to_Hakumei_no_Mahou_(Instrumental)_yanaginagi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mimei - Acoustic Version",
+      "artist": "Yu Orie,Kei Sugawara",
+      "has_synced": false,
+      "path": "select/pl_01_Mimei_-_Acoustic_Version_Yu_Orie,Kei_Sugawara.txt"
+    }
+  ]
+}
